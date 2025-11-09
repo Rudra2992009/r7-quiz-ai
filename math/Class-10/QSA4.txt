@@ -1,0 +1,51 @@
+Solve for x: x^2 - 6x + 9 = 0.
+Explain the law of exponents with examples.
+Calculate the surface area of a cylinder with radius 5 cm and height 10 cm.
+What is the difference between permutations and combinations?
+Calculate the mean and mode of the data set: 2, 8, 8, 10, 12, 15, 18.
+Define a rational number and give examples.
+Find the height of a triangle with base 12 cm and area 36 cm^2.
+What are the properties of parallelograms?
+Evaluate the sum of the geometric series: 2, 6, 18, 54, ... for 5 terms.
+Find the roots of the equation: 3x^2 - 7x + 2 = 0.
+Explain the Pythagorean theorem and solve for the hypotenuse if the other sides are 6 cm and 8 cm.
+What is the compound interest on ₹ 1000 at 5 % per annum for 2 years?
+Calculate the volume of a cone of radius 4 cm and height 9 cm.
+Define an angle bisector.
+What is the formula for the area of a trapezium?
+Solve the inequality: 4x - 3 > 5.
+What is the sum of the interior angles of a hexagon?
+Explain the difference between a square and a rectangle.
+Find the nth term of the arithmetic progression: 3, 7, 11, 15,...
+Calculate the standard deviation for the data: 13, 15, 18, 21, 24.
+Explain the difference between congruent and similar triangles.
+Calculate the perimeter of a regular octagon with side length 7 cm.
+Define a polynomial.
+Find the sum of the first 15 odd numbers.
+Evaluate the function: f(x) = 2x^3 - 3x^2 + x.
+Describe the properties of the parallelogram.
+Calculate the distance between the points (3, 4) and (7, 10).
+Explain the laws of indices.
+What is the volume of a rectangular prism with sides 6 cm, 7 cm, and 8 cm?
+Define an obtuse angle.
+Calculate the mean of the numbers: 4, 5, 7, 8, 9.
+Explain the concept of probability with an example.
+Determine the solutions for the quadratic equation: x^2 - 4x + 4 = 0.
+Find the angle of elevation to the top of a building 50 m away and 20 m high.
+Explain the laws of motion.
+What is the sum of an arithmetic progression?
+Calculate the surface area of a sphere with radius 6 cm.
+Find the roots of the cubic equation: x^3 - 7x^2 + 14x - 8 = 0.
+Describe the angle sum property of triangles.
+What is the difference between empirical and theoretical probability?
+Calculate the momentum of a 2 kg object moving at 3 m/s.
+Find the median of data: 5, 10, 15, 20, 25.
+Define a vector.
+Calculate the area of a parallelogram formed by vectors.
+Give examples of symmetric and skew-symmetric matrices.
+Calculate the sum of interior angles of a nonagon.
+Explain the binomial expansion of (a + b)^4.
+Evaluate the integral of x^2 + 3x + 1.
+Calculate the length of the diagonal of a cube with side 8 cm.
+Determine the maximum value of the function f(x) = -x^2 + 4x + 1.
+Evaluate the correlation coefficient for the data set.
