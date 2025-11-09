@@ -1,0 +1,45 @@
+Calculate the roots of the equation x^2 + 5x + 6 = 0.
+What is the sum of angles in a quadrilateral?
+Define the term "polygon".
+Calculate the volume of a cone with radius 3 cm and height 9 cm.
+Explain the difference between mean and median.
+Write the binomial expansion of (x + y)^2.
+Calculate the perimeter of a rectangle with length 7 cm and width 4 cm.
+What is the formula for area of a parallelogram?
+Find the sum of the first 10 natural numbers.
+Define a rational number.
+Describe the properties of triangles.
+Calculate the surface area of a sphere with diameter 14 cm.
+Explain the Pythagorean theorem.
+What is a linear equation?
+Calculate the median of the following data: 7, 12, 13, 15, 18.
+Find the value of x in the equation 4x + 7 = 23.
+What is the formula for volume of a cylinder?
+Explain the concept of complementary angles.
+What is the probability of getting a head in a coin toss?
+Define a quadratic equation.
+Calculate the sum of interior angles of a hexagon.
+Explain the difference between speed and velocity.
+Calculate the length of the diagonal of a rectangle with length 8 cm and width 6 cm.
+What is a prime number?
+Calculate the surface area of a cube with side length 5 cm.
+Explain the concept of reflection in geometry.
+Write the formula for circumference of a circle.
+Calculate the volume of a prism.
+What is the difference between acute and obtuse angles?
+Describe the function of the human heart.
+Define an obtuse triangle.
+Explain what is osmosis.
+Calculate the mean of the numbers: 2, 4, 6, 8, 10.
+What is the formula for area of a circle?
+Solve the inequality: 2x + 3 > 7.
+Describe the properties of rectangles.
+Calculate the speed of an object moving 60 meters in 5 seconds.
+Define the term "refraction".
+What is the formula for volume of a sphere?
+Explain the principle of conservation of energy.
+Calculate the sum of the first 20 multiples of 3.
+Define the term "velocity".
+What are complementary angles?
+Calculate the area of a triangle with sides 7 cm, 8 cm, and 9 cm.
+Define the term "perimeter".

@@ -1,0 +1,49 @@
+Solve the equation x^2 - 4x + 3 = 0.
+What is the sum of interior angles of a pentagon?
+Describe the properties of parallelograms.
+Calculate the volume of a sphere with radius 7 cm.
+Explain the difference between permutation and combination.
+Find the median of the data: 2, 7, 9, 11, 15.
+What is the formula for the distance between two points in a plane?
+Simplify (x + 5)(x - 2).
+Define the interior and exterior angles of polygons.
+Calculate the sum of the first 15 natural numbers.
+Explain the significance of the discriminant in quadratic equations.
+What is the probability of rolling an even number on a dice?
+Find the equation of a circle with center (3, -2) and radius 5.
+Explain the concept of direct and inverse variation.
+List three applications of trigonometry.
+Calculate the perimeter of a regular hexagon with side length 6 cm.
+What are the properties of a kite?
+Evaluate the expression: 2^3 × 3^2.
+Find the harmonic mean of 4 and 6.
+Explain the difference between chord and arc of a circle.
+Describe the process of factoring polynomials.
+Solve the system of linear equations:
+2x + 3y = 7
+3x - y = 4
+What is the formula for the lateral surface area of a cone?
+Calculate the simple interest for ₹1500 at 7% per annum for 2 years.
+Define mean, median, and mode.
+Explain the concept of complementary angles.
+Which theorem states that the sum of the angles in a triangle is 180°?
+Calculate the length of the hypotenuse of a right triangle with legs 6 cm and 8 cm.
+Find the sum of the geometric series: 1 + 2 + 4 + 8 + ... up to 5 terms.
+What is the binomial theorem? State its expansion for (a + b)^3.
+Explain what an irrational number is with examples.
+Calculate the area of a sector with radius 9 cm and angle 60°.
+Find the volume of a cylinder with radius 4 cm and height 10 cm.
+What is the angle of elevation?
+Define an isosceles triangle.
+Simplify the expression: (2x)^3.
+What is the formula for the area of a rhombus?
+Explain the difference between similar and congruent triangles.
+Calculate the standard deviation for the data: 5, 10, 15, 20, 25.
+Find the mean of the numbers: 3, 6, 9, 12, 15.
+What is the formula for the surface area of a cube?
+Explain the properties of trapeziums.
+Calculate the difference between permutations and combinations.
+What is an acute angle? Give examples.
+Find the equation of the tangent to the circle x^2 + y^2 = 25 at the point (3, 4).
+Calculate the simple interest on ₹1200 at 6% per annum for 3 years.
+What is the relationship between radius and circumference of a circle?
