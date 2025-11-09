@@ -1,49 +1,69 @@
-What is the value of 𝜋?
-Solve the equation 3x + 4 = 19.
-Define a prime number with examples.
-Calculate the area of a triangle with base 10 cm and height 5 cm.
-What is the Pythagorean theorem? State it with an example.
-Simplify (x + 3)(x - 4).
-Find the square root of 144.
-What is the perimeter of a rectangle with length 8 cm and width 3 cm?
-Convert 0.75 to a fraction.
-What is the LCM of 12 and 15?
-Calculate the median of the following data: 5, 8, 12, 15, 18.
-What is a linear equation in two variables?
-Solve for y in the equation 2y - 6 = 10.
-Find the value of x: x/2 + 5 = 7.
-What is the difference between speed and velocity?
-Explain the distributive property with an example.
-Calculate the surface area of a cube with side 4 cm.
-What is the formula for the area of a circle?
-Solve the inequality: 3x - 4 > 5.
-What are factors and multiples?
-What is the volume of a cylinder with radius 3 cm and height 7 cm?
-Define percentage and calculate 20% of 150.
-Find the simple interest on ₹1000 at 5% per annum for 3 years.
-What is an acute angle?
-Calculate the area of a parallelogram with base 15 cm and height 10 cm.
-Define a polygon and list types based on the number of sides.
-What is the formula for the area of a trapezium?
-Solve for x: 5x - 7 = 3x + 11.
-What is a quadratic equation? Provide its general form.
-Find the roots of the equation x^2 - 5x + 6 = 0.
-Explain the concept of congruent triangles.
-What is a rhombus?
-Calculate the diagonal of a square with side 10 cm.
-What is the Pythagorean triplet?
-Determine the mean of the data: 4, 7, 9, 10, 12.
-Define a histogram.
-What is the formula for compound interest?
-How do you find the HCF of two numbers?
-Explain the difference between speed and velocity.
-State the Pythagorean theorem.
-Calculate the perimeter of a square with side 6 cm.
-What is the sum of angles in a triangle?
-Solve for x: 3x + 5 = 20.
-Convert 0.5 to a fraction.
-What is the LCM of 8 and 10?
-Find the mode of the data: 5, 7, 7, 9, 10.
-What is the area of a rectangle with length 10 cm and width 5 cm?
-Explain the properties of parallelograms.
-What is a polyhedron?
+What is the value of π to 4 decimal places?
+Solve for x in the quadratic equation: 2x^2 - 3x - 5 = 0.
+Prove or disprove: The sum of the interior angles of a polygon with n sides is (n-2) × 180°.
+Find the area of a trapezium with parallel sides of lengths 10 cm and 14 cm and height 7 cm.
+Derive the formula for the volume of a cylinder.
+If the roots of the equation x^2 + px + q = 0 are in the ratio 2:3, find the relationship between p and q.
+Find the sum of the first 20 terms of the arithmetic progression: 2, 5, 8, ...
+Evaluate the determinant of the matrix:
+
+|1 2 3|
+|4 5 6|
+|7 8 9|
+
+Explain the concept of inverse trigonometric functions with examples.
+Solve the inequality: 3x^2 - 7x + 2 > 0.
+Prove that the diagonals of a rhombus bisect each other at right angles.
+Find the mean deviation from the median of the data: 12, 15, 18, 22, 25.
+Differentiate the function f(x) = x^3 - 5x + 4.
+Evaluate the integral ∫(2x^2 - 3x + 1) dx.
+Find the equation of the line passing through the points (1, 2) and (3, 4).
+Calculate the probability of getting exactly 3 heads in 5 coin tosses.
+Prove the Pythagorean theorem using coordinate geometry.
+Solve the system of equations:
+
+2x + y = 5
+3x - y = 4
+
+Evaluate the sum:
+
+Σ (k=1 to 10) (2k + 1).
+Find the area of the sector of a circle with radius 6 cm and central angle 60°.
+Find the roots of the cubic equation x^3 - 6x^2 + 11x - 6 = 0.
+Determine the points of inflection for the curve y = x^4 - 4x^3 + 6x^2 - 4x + 1.
+Calculate the standard deviation of the data set: 4, 8, 6, 10, 12.
+Find the radius of the circle inscribed in a triangle with sides 7 cm, 8 cm, and 9 cm.
+Prove that opposite angles of a cyclic quadrilateral sum to 180°.
+Evaluate the limit:
+
+lim (x→0) (sin x)/x.
+Find the sum of the infinite geometric series with first term 3 and common ratio 1/2.
+Explain the concept of conditional probability with an example.
+Find the length of the diagonal of a cube with side 5 cm.
+Calculate the force exerted by a body of mass 10 kg accelerating at 5 m/s^2.
+Prove that the sum of the first n natural numbers is n(n+1)/2.
+Find the area of a triangle given the coordinates of its vertices: (0, 0), (4, 0), and (4, 3).
+Find the derivative of the function y = sin x 2 + cos x 3.
+Calculate the work done in moving an object 10 m against a force of 20 N.
+Explain the use of matrices in solving system of linear equations.
+Find the transpose of the matrix:
+
+|1 4 7|
+|2 5 8|
+|3 6 9|
+
+Calculate the height of a right circular cone with volume 150 cm^3 and radius 3 cm.
+Find the equation of the parabola with focus at (0, 2) and directrix y = -2.
+Evaluate the integral:
+
+∫ (1/(x^2 + 1)) dx.
+Explain the application of binomial theorem in probability.
+Find the sum of the squares of the first 10 natural numbers.
+Calculate the electric field due to a point charge.
+Calculate the surface area of a sphere with radius 7 cm.
+What is the difference between permutation and combination?
+Solve the differential equation:
+
+dy/dx + y = e^x.
+Calculate the volume of a cone with base diameter 10 cm and height 12 cm.
+
