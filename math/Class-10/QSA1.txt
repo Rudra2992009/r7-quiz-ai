@@ -1,0 +1,49 @@
+What is the value of 𝜋?
+Solve the equation 3x + 4 = 19.
+Define a prime number with examples.
+Calculate the area of a triangle with base 10 cm and height 5 cm.
+What is the Pythagorean theorem? State it with an example.
+Simplify (x + 3)(x - 4).
+Find the square root of 144.
+What is the perimeter of a rectangle with length 8 cm and width 3 cm?
+Convert 0.75 to a fraction.
+What is the LCM of 12 and 15?
+Calculate the median of the following data: 5, 8, 12, 15, 18.
+What is a linear equation in two variables?
+Solve for y in the equation 2y - 6 = 10.
+Find the value of x: x/2 + 5 = 7.
+What is the difference between speed and velocity?
+Explain the distributive property with an example.
+Calculate the surface area of a cube with side 4 cm.
+What is the formula for the area of a circle?
+Solve the inequality: 3x - 4 > 5.
+What are factors and multiples?
+What is the volume of a cylinder with radius 3 cm and height 7 cm?
+Define percentage and calculate 20% of 150.
+Find the simple interest on ₹1000 at 5% per annum for 3 years.
+What is an acute angle?
+Calculate the area of a parallelogram with base 15 cm and height 10 cm.
+Define a polygon and list types based on the number of sides.
+What is the formula for the area of a trapezium?
+Solve for x: 5x - 7 = 3x + 11.
+What is a quadratic equation? Provide its general form.
+Find the roots of the equation x^2 - 5x + 6 = 0.
+Explain the concept of congruent triangles.
+What is a rhombus?
+Calculate the diagonal of a square with side 10 cm.
+What is the Pythagorean triplet?
+Determine the mean of the data: 4, 7, 9, 10, 12.
+Define a histogram.
+What is the formula for compound interest?
+How do you find the HCF of two numbers?
+Explain the difference between speed and velocity.
+State the Pythagorean theorem.
+Calculate the perimeter of a square with side 6 cm.
+What is the sum of angles in a triangle?
+Solve for x: 3x + 5 = 20.
+Convert 0.5 to a fraction.
+What is the LCM of 8 and 10?
+Find the mode of the data: 5, 7, 7, 9, 10.
+What is the area of a rectangle with length 10 cm and width 5 cm?
+Explain the properties of parallelograms.
+What is a polyhedron?
