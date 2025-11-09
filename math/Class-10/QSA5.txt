@@ -1,0 +1,48 @@
+What are the differences between speed and velocity?
+Define the term acceleration.
+What is Newton's First Law of Motion?
+Calculate the force exerted on a body of mass 5 kg accelerating at 2 m/s^2.
+Explain the law of conservation of energy.
+State the formula to calculate work done.
+Differentiate between scalar and vector quantities.
+What is the principle of moments?
+Define the term power and give its unit.
+Explain how the center of mass of a system is determined.
+Calculate the pressure exerted by a force of 100 N applied over an area of 0.5 m^2.
+Describe the concept of buoyancy.
+What is atmospheric pressure and how is it measured?
+State and explain Bernoulli's theorem.
+Explain the difference between heat and temperature.
+What is specific heat capacity?
+Describe the process of conduction.
+Explain the concept of convection.
+What is radiation heat transfer?
+Define the term latent heat.
+Calculate the efficiency of a heat engine with heat input of 500 J and work output of 100 J.
+What is Boyle's law? State its mathematical expression.
+Explain Charles's law with an example.
+What is the ideal gas equation?
+Describe the features of solids, liquids, and gases.
+Define diffusion.
+Explain the importance of the water cycle.
+What is the greenhouse effect and its consequences?
+Describe the structure of the human eye.
+Define myopia and its corrective measures.
+What is the function of the human heart?
+Explain the flow of blood through the heart.
+Define the term nerve and its function.
+What are hormones?
+Describe the process of photosynthesis.
+What is DNA and its role in heredity?
+What is a gene?
+Explain the principles of inheritance.
+What is an ecosystem?
+Describe the food chain and food web.
+What is biodiversity and its importance?
+Define the term pollution.
+Explain the effects of pollution on living organisms.
+What are renewable and non-renewable energy resources?
+Describe the advantages of using renewable energy.
+Explain the water cycle.
+What is global warming and its impacts on climate change?
+Describe the structure of a plant cell.
