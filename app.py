@@ -1,98 +1,66 @@
-import os
-import logging
-from flask import Flask, request, jsonify
-import requests
+PRE_MADE_QUESTIONS = {
+    "10th": {
+        "Math": [
+            "What is the value of π?",
+            "Solve for x: 2x + 3 = 15.",
+            "Define a prime number.",
+            "What is the area of a circle with radius 5 cm?",
+            "Explain Pythagoras theorem.",
+            "What is a linear equation?",
+            "Convert 25% to a fraction.",
+            "What is the sum of angles in a triangle?",
+            "Calculate the perimeter of a square with side 4 cm.",
+            "Define a composite number."
+        ],
+        "Science": [
+            "What are the three states of matter?",
+            "Define photosynthesis.",
+            "What is the function of the heart?",
+            "Explain Newton's first law of motion.",
+            "What is an atom?",
+            "Define the water cycle.",
+            "What is the importance of the ozone layer?",
+            "Name the human body's five senses.",
+            "What is DNA?",
+            "Explain the greenhouse effect."
+        ]
+    },
+    "12th": {
+        "Math": [
+            "Define a differential equation.",
+            "Explain the binomial theorem.",
+            "What is integration by parts?",
+            "State the fundamental theorem of calculus.",
+            "Define a matrix.",
+            "What is the determinant of a square matrix?",
+            "Explain Laplace transform.",
+            "What is a vector space?",
+            "Solve for x in a quadratic equation.",
+            "What is a scalar product?"
+        ],
+        "Physics": [
+            "State Newton's second law of motion.",
+            "What is kinetic energy?",
+            "Define work done.",
+            "Explain the laws of thermodynamics.",
+            "What is Hooke's law?",
+            "Define acceleration.",
+            "What is momentum?",
+            "Explain the principle of conservation of energy.",
+            "What is gravitational force?",
+            "State Ohm's law."
+        ]
+    }
+}
 
-app = Flask(__name__)
+from flask import request
 
-GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent"
-
-# Setup logging
-logging.basicConfig(level=logging.INFO)
-
-# Load dictionary words
-# Assumes dictionary.txt exists with one word per line
-
-def load_dictionary():
-    dict_path = "dictionary.txt"
-    if not os.path.isfile(dict_path):
-        logging.warning(f"Dictionary file {dict_path} not found.")
-        return set()
-    with open(dict_path, "r", encoding="utf-8") as f:
-        words = set(w.strip().lower() for w in f.readlines())
-    logging.info(f"Loaded {len(words)} words from dictionary.")
-    return words
-
-DICTIONARY_WORDS = load_dictionary()
-
-# Simple in-memory cache to reduce API calls
-cached_questions = {}
-
-@app.route('/generate', methods=['POST'])
-def generate():
+@app.route('/premade', methods=['POST'])
+def premade():
     data = request.get_json() or {}
-    subject = data.get('subject', 'General').strip()
-    keys = [k.strip() for k in data.get('keys', []) if k.strip()]
-    questions = []
-
-    if not subject:
-        return jsonify(["Subject cannot be empty."]), 400
-
-    # Use cache key based on subject + keys count
-    cache_key = (subject, len(keys))
-
-    if cache_key in cached_questions:
-        logging.info(f"Serving cached questions for {subject}")
-        return jsonify(cached_questions[cache_key])
-
-    # Fallback scenario if no keys provided
-    if not keys:
-        if DICTIONARY_WORDS:
-            words = list(DICTIONARY_WORDS)[:50]
-            questions = [f"Sample question about '{word.capitalize()}' in {subject}" for word in words]
-        else:
-            questions = ["Please provide at least one Gemini API key to generate questions."]
-        cached_questions[cache_key] = questions
-        return jsonify(questions)
-
-    # Iterate over keys and try generating with first valid
-    for key in keys:
-        headers = {'Content-Type': 'application/json'}
-        payload = {
-            "contents": [{
-                "parts": [{"text": f"Generate 50 tough CBSE board style questions for subject: {subject}"}]
-            }]
-        }
-        try:
-            resp = requests.post(f"{GEMINI_URL}?key={key}", json=payload, headers=headers, timeout=20)
-            if resp.ok:
-                res = resp.json()
-                texts = []
-                candidates = res.get('candidates', [])
-                for cand in candidates:
-                    content = cand.get('content', {})
-                    parts = content.get('parts', [])
-                    for part in parts:
-                        text = part.get('text','').strip()
-                        if text:
-                            texts.append(text)
-                if texts:
-                    questions = texts[:50]
-                    cached_questions[cache_key] = questions
-                    logging.info(f"Generated questions from Gemini API for {subject}")
-                    break
-        except Exception as e:
-            logging.error(f"Error calling Gemini API with key: {e}")
-            continue
-
+    class_ = data.get('class', '10th').lower()
+    subject = data.get('subject', '').title()
+    questions = PRE_MADE_QUESTIONS.get(class_, {}).get(subject, [])
     if not questions:
-        questions = ["Error generating questions from Gemini API."]
-        cached_questions[cache_key] = questions
-
+        questions = ["No pre-made questions available for this class and subject."]
     return jsonify(questions)
-
-# Extendability placeholders
-# TODO: Add routes and handlers for pre-made question sets for 10th and 12th here
-
-if __name__ == "__main__":
-    app.run(debug=True)
