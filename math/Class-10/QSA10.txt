@@ -1,0 +1,46 @@
+State the properties of real numbers.
+Explain the distributive, associative, and commutative properties.
+Define rational and irrational numbers.
+Calculate the absolute value of -15.
+Explain the difference between a finite and infinite set.
+Describe the number line.
+Define intervals and notation.
+What are integers?
+Explain the concept of inequalities.
+Solve linear inequalities.
+Define absolute value inequalities.
+Explain set theory and its applications.
+Describe the types of sets: finite, infinite, equal, null.
+Explain the principle of mathematical induction.
+What is the difference between subsets and supersets?
+Define functions and relations.
+Explain domain and range.
+Describe the difference between one-to-one and onto functions.
+Explain inverses of functions.
+What is the graph of a function?
+Calculate the composition of two functions.
+Explain the concept of limits.
+Define continuity of a function.
+Explain the concept of derivatives.
+Explain the fundamental theorem of calculus.
+Calculate the derivative of a polynomial function.
+What is Rolle's theorem?
+Explain the Mean Value Theorem.
+Calculate the indefinite integral of f(x) = 3x^2 + 2x + 1.
+Explain the application of derivatives in real life.
+Solve differential equations.
+Explain how to find the maxima and minima of a function.
+Describe the use of functions in modeling real-world problems.
+Explain parametric equations.
+Describe polar coordinates.
+Calculate the area under a curve using integration.
+Explain the relationship between calculus and physics.
+Define vector functions.
+Explain partial derivatives.
+Describe the use of differential equations in engineering.
+Explain the concept of Laplace transforms.
+Define matrices and determinants.
+Explain eigenvalues and eigenvectors.
+Describe matrix diagonalization.
+Explain the applications of matrices in computer science.
+What is the rank of a matrix?

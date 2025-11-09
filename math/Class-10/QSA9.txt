@@ -1,0 +1,46 @@
+Define a matrix.
+What is the determinant of a square matrix?
+Explain the properties of determinants.
+Calculate the inverse of a matrix.
+What is the rank of a matrix?
+Solve a system of linear equations using matrices.
+Explain the concept of eigenvalues and eigenvectors.
+Describe the uses of matrices in computer graphics.
+Calculate the sum of the diagonal elements of a matrix.
+What is a diagonal matrix?
+Explain the application of matrices in engineering fields.
+Calculate the product of two matrices.
+Find the transpose of a matrix.
+Define the identity matrix.
+Explain the difference between symmetric and skew-symmetric matrices.
+What is a singular matrix?
+Describe matrix addition and multiplication.
+Calculate the determinant of the product of two matrices.
+Explain linear transformations.
+Describe the use of matrices in cryptography.
+State the Cayley-Hamilton theorem.
+Define the trace of a matrix.
+Calculate the inverse of a 3x3 matrix.
+Explain binary operations on matrices.
+Describe how matrices are used in statistics.
+What is the role of matrices in solving linear algebra problems?
+Calculate the characteristic polynomial of a matrix.
+Explain the concept of matrix diagonalization.
+Find the eigenvalues of a matrix.
+Describe the spectral theorem.
+Explain the use of matrices in quantum mechanics.
+Calculate the sum of powers of a matrix.
+Define orthogonal matrices.
+Explain the Jordan canonical form.
+Describe the relationship between matrices and vectors.
+Explain matrix factorizations.
+What are symmetric bilinear forms?
+Describe the Kronecker product.
+Explain the Frobenius (Hessian) matrix.
+Find the null space of a matrix.
+Explain the solvability of linear systems.
+Describe linear independence.
+Explain the concept of determinant expansion.
+Calculate the rank of a 4x4 matrix.
+Explain matrix inversion methods.
+Discuss applications of linear algebra in physics.

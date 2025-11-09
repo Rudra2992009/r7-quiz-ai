@@ -1,0 +1,52 @@
+What is the formula for the surface area of a cylinder?
+Explain the properties of parallelograms.
+Calculate the sum of the first 12 natural numbers.
+What is the difference between rational and irrational numbers?
+Define congruent triangles with examples.
+Calculate the volume of a sphere with diameter 14 cm.
+What is the Pythagorean theorem? Prove it.
+Find the roots of the quadratic equation x^2 - 7x + 12 = 0.
+Explain the difference between permutation and combination.
+Calculate the sum of the angles of a polygon with 8 sides.
+Describe the laws of indices.
+Find the next term of the series 2, 6, 18, 54,...
+Explain how to find the HCF of two numbers.
+Calculate simple interest on ₹2000 at 6% per annum for 3 years.
+What are the key properties of a parallelogram?
+State the formula for the area of a trapezium.
+Calculate the diagonal length of a square with side 9 cm.
+Explain the difference between a chord and an arc in a circle.
+Find the sum of the first 15 even numbers.
+What is the probability of getting heads in two coin tosses?
+What is an obtuse angle? Give an example.
+Explain the process of factoring polynomials.
+Calculate the mean and median of the data set: 3, 7, 8, 10, 15.
+Define a rational number.
+What is the volume of a cone with height 12 cm and radius 3 cm?
+Explain the concept of direct and inverse proportion.
+Calculate the surface area of a cube with side 6 cm.
+Describe the properties of a rhombus.
+Define the term ‘isosceles triangle’.
+What is the formula for the area of a parallelogram?
+Find the missing side of a right triangle with hypotenuse 13 cm and one side 5 cm.
+Explain sigma notation.
+Calculate the square of a binomial (a + b)^2.
+What is the standard deviation of the numbers 2, 4, 4, 4, 5, 5, 7, 9?
+Explain the difference between a scalene and an equilateral triangle.
+Calculate the volume of a rectangular prism with length 5 cm, width 8 cm, and height 3 cm.
+What is the sum of the interior angles of a hexagon?
+Explain the concept of corresponding angles.
+What is the length of an arc of a circle with radius 10 cm and central angle 45°?
+What is the formula for the surface area of a sphere?
+Calculate the solution to the equation 2x + 3 = 15.
+Explain how to find the LCM of two numbers.
+Describe a circle and its parts.
+What is the formula for the area of a triangle?
+Explain absolute value.
+Calculate the perimeter of a rectangle with length 7 cm and width 5 cm.
+What is the difference between a parallelogram and a rectangle?
+Define the properties of a hexagon.
+Calculate the radius of a circle with circumference 31.4 cm.
+Explain the concept of angles of elevation and depression.
+Calculate the area of a sector with radius 5 cm and central angle 60°.
+Calculate the surface area of a cylinder.
