@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>R7 Quiz AI</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+<h1>AI Q/A Answer Generator</h1>
+<form id="quizForm">
+<label for="subject">Subject:</label>
+<input type="text" id="subject" name="subject" placeholder="Science, Maths..." required>
+<label for="apiKey1">Gemini API Key 1:</label>
+<input type="text" id="apiKey1" name="apiKey1" required>
+<label for="apiKey2">Gemini API Key 2:</label>
+<input type="text" id="apiKey2" name="apiKey2">
+<label for="apiKey3">Gemini API Key 3:</label>
+<input type="text" id="apiKey3" name="apiKey3">
+<button type="submit">Generate 50 Questions</button>
+</form>
+<div id="result"></div>
+<button id="saveDoc" style="display:none">Save as .doc</button>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
